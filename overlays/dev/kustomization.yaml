@@ -6,7 +6,7 @@ images:
   newTag: e5ee65dd
 - name: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_be_home
   newName: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_be_home
-  newTag: 532eb259
+  newTag: e5ee65dd
 - name: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_fe
   newName: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_fe
   newTag: e5ee65dd
