@@ -9,7 +9,7 @@ images:
   newTag: 532eb259
 - name: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_fe
   newName: 817757596025.dkr.ecr.ap-northeast-2.amazonaws.com/schedulechecker_fe
-  newTag: 532eb259
+  newTag: e5ee65dd
 resources:
 - ../../base
 patchesStrategicMerge:
